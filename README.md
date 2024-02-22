@@ -32,4 +32,5 @@ Tabela
 
 Número|Nome|Nota
 -|-|-
-1|Patrick|10
+1|Patrick|10.0
+
